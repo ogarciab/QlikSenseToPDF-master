@@ -28,7 +28,7 @@ function ( ) {
    						$("div.quick-navigation.ng-scope").hide();
    						$("div.buttons-end.borderbox").hide();
   						$(transparent).insertAfter("#qv-toolbar-container");   						
-   						//var origen = $("body").html();
+   						
    						
 						return $param; 
    			}		
